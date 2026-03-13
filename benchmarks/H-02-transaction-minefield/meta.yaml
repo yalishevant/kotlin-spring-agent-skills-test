@@ -1,0 +1,7 @@
+id: H-02
+name: H-02-transaction-minefield
+description: "Transaction management — rollback semantics, propagation, optimistic locking"
+difficulty: hard
+steps: 1
+skills_tested: [SK-09]
+format: starter-fix

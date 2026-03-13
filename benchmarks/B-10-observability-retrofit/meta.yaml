@@ -1,0 +1,6 @@
+id: B-10
+name: "Observability Retrofit"
+skills_tested: [SK-17, SK-18]
+steps: 2
+max_score_per_step: 50
+description: "Build a URL shortener, then add production-grade observability with metrics, structured logging, and correlation IDs."

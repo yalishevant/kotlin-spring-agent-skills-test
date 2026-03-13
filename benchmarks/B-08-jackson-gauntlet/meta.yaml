@@ -1,0 +1,6 @@
+id: B-08
+name: "Jackson Serialization Gauntlet"
+skills_tested: [SK-08, SK-06, SK-07]
+steps: 1
+max_score_per_step: 50
+description: "Build an API exercising all tricky Jackson/Kotlin serialization edge cases."

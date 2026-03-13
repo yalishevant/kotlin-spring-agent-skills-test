@@ -1,0 +1,8 @@
+id: H-01
+name: H-01-proxy-trap
+description: "Spring proxy compatibility — self-invocation, caching, data class entity"
+difficulty: hard
+steps: 1
+skills_tested: [SK-03]
+format: starter-fix
+max_score_per_step: 50

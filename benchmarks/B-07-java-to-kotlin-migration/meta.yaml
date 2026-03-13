@@ -1,0 +1,6 @@
+id: B-07
+name: "Java to Kotlin Migration"
+skills_tested: [SK-19, SK-03, SK-20]
+steps: 3
+max_score_per_step: 50
+description: "Build a Java+Lombok service, migrate to Kotlin, then refactor to idiomatic Kotlin."

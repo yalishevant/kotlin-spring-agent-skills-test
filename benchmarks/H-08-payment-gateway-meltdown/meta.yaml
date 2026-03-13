@@ -1,0 +1,8 @@
+id: H-08
+name: H-08-payment-gateway-meltdown
+description: "Compound payment service failure across API contract, error handling, resilience, configuration binding, and caching"
+difficulty: hard
+steps: 1
+skills_tested: [SK-06, SK-07, SK-12, SK-16, SK-03]
+format: starter-fix
+max_fix_loops: 0

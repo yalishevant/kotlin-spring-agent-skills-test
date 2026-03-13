@@ -1,0 +1,6 @@
+id: B-15
+name: "Production Incident Triage"
+skills_tested: [SK-15, SK-24, SK-02]
+steps: 2
+max_score_per_step: 50
+description: "Build an inventory service, then respond to a production incident with optimistic locking failures under load."

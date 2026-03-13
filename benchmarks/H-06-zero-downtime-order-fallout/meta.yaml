@@ -1,0 +1,8 @@
+id: H-06
+name: H-06-zero-downtime-order-fallout
+description: "Compound rollout failure across migration, PATCH semantics, transactions, cache, status transitions, and event listeners"
+difficulty: hard
+steps: 1
+skills_tested: [SK-11, SK-08, SK-09, SK-03]
+format: starter-fix
+max_fix_loops: 0

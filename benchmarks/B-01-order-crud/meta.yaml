@@ -1,0 +1,6 @@
+id: B-01
+name: "Order Management CRUD Service"
+skills_tested: [SK-04, SK-06, SK-07, SK-08, SK-10, SK-14]
+steps: 2
+max_score_per_step: 50
+description: "Build a CRUD REST service from scratch, then extend with serialization edge cases."

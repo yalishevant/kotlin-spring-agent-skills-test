@@ -1,0 +1,6 @@
+id: B-09
+name: "Digital Wallet Service"
+skills_tested: [SK-25, SK-06, SK-09, SK-10, SK-12, SK-14]
+steps: 1
+max_score_per_step: 50
+description: "Build a production-grade digital wallet with idempotent operations, optimistic locking, and full audit trail."

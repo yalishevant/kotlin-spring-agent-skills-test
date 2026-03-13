@@ -1,0 +1,8 @@
+id: H-07
+name: H-07-inventory-reconciliation-chaos
+description: "Compound inventory management failure across concurrency, security, N+1 queries, configuration binding, batch processing, and validation"
+difficulty: hard
+steps: 1
+skills_tested: [SK-09, SK-13, SK-18, SK-10, SK-16, SK-06, SK-07]
+format: starter-fix
+max_fix_loops: 0

@@ -1,0 +1,6 @@
+id: B-12
+name: "Resilient HTTP Integration"
+skills_tested: [SK-12, SK-14]
+steps: 1
+max_score_per_step: 50
+description: "Build a price aggregator with per-supplier timeouts, retries with jitter, circuit breakers, and fallback logic."

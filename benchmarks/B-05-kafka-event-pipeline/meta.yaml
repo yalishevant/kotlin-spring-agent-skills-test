@@ -1,0 +1,6 @@
+id: B-05
+name: "Kafka Event Pipeline with Idempotency"
+skills_tested: [SK-12, SK-09, SK-14]
+steps: 1
+max_score_per_step: 50
+description: "Build a Kafka event consumer with deduplication, DLQ, and transactional outbox."

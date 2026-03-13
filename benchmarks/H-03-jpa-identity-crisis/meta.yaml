@@ -1,0 +1,7 @@
+id: H-03
+name: H-03-jpa-identity-crisis
+description: "JPA entity mapping — identity, lazy loading, bidirectional relationships, N+1"
+difficulty: hard
+steps: 1
+skills_tested: [SK-10]
+format: starter-fix

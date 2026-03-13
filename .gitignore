@@ -1,0 +1,19 @@
+# Benchmark run outputs
+/results/
+/results-v1-backup/
+
+# Local benchmark starter build artifacts
+/benchmarks/*/starter/build/
+/benchmarks/*/starter/.gradle/
+/benchmarks/*/starter/.kotlin/
+
+# Hidden tests and eval infrastructure (keep benchmarks reproducible)
+/benchmarks/*/hidden-tests/
+/benchmarks/*/eval-hidden.sh
+/benchmarks/*/eval.yaml
+
+# Spec documents (brainstorming artifacts)
+/docs/superpowers/
+
+# Draft specification documents
+Skills_for_kotlin_AI*.md

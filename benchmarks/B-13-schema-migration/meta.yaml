@@ -1,0 +1,6 @@
+id: B-13
+name: "Schema Migration: Zero-Downtime Column Rename"
+skills_tested: [SK-11, SK-10]
+steps: 2
+max_score_per_step: 50
+description: "Build a user profile service, then perform an expand/contract migration to rename a column with zero downtime."

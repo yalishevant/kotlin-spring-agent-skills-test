@@ -1,0 +1,6 @@
+id: B-02
+name: "The Transaction Trap"
+skills_tested: [SK-03, SK-09, SK-15]
+steps: 2
+max_score_per_step: 50
+description: "Build a transfer service, then debug self-invocation and propagation bugs."

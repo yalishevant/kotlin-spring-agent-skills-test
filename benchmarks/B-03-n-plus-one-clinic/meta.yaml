@@ -1,0 +1,6 @@
+id: B-03
+name: "N+1 Query Clinic"
+skills_tested: [SK-10, SK-18, SK-14]
+steps: 3
+max_score_per_step: 50
+description: "Build a course catalog, diagnose N+1, fix with DTO projections and entity graphs."

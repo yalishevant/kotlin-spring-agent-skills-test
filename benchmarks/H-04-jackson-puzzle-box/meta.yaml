@@ -1,0 +1,7 @@
+id: H-04
+name: H-04-jackson-puzzle-box
+description: "Jackson serialization — Kotlin module, sealed classes, date handling, tri-state PATCH"
+difficulty: hard
+steps: 1
+skills_tested: [SK-08]
+format: starter-fix

@@ -1,0 +1,7 @@
+id: B-14
+name: "PR Review Simulation"
+skills_tested: [SK-21, SK-03, SK-09, SK-13]
+steps: 2
+max_score_per_step: 50
+description: "Build a payment service with 10 planted bugs, then review the code to find them."
+scoring_note: "Step 2 uses bug-counting scoring: 10 bugs × 3 points each = max 30, not the standard rubric."

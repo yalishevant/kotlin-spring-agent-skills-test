@@ -1,0 +1,7 @@
+id: H-05
+name: H-05-migration-gauntlet
+description: "Schema migration — expand-contract pattern, backfill, safe column rename"
+difficulty: hard
+steps: 1
+skills_tested: [SK-11]
+format: starter-fix

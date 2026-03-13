@@ -1,0 +1,6 @@
+id: B-06
+name: "The Config Maze"
+skills_tested: [SK-16, SK-02, SK-15]
+steps: 2
+max_score_per_step: 50
+description: "Build a multi-profile notification service, then debug configuration binding failures."

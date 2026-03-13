@@ -1,0 +1,6 @@
+id: B-11
+name: "Spring Boot Upgrade (2.7 → 3.2)"
+skills_tested: [SK-22, SK-04, SK-05]
+steps: 2
+max_score_per_step: 50
+description: "Build a Spring Boot 2.7 app with legacy patterns, then upgrade to 3.2 handling all breaking changes."
